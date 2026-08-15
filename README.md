@@ -1,24 +1,32 @@
-## Main Stack
+## Sobre mim
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,git)](https://skillicons.dev)
+*   **Nome:** Cauê Lima Vaccari
+*   **Idade:** 18 anos
+*   **Curso atual:** Análise e Desenvolvimento de Sistemas (ADS)
+*   **Instituição:** FATEC Ipiranga (Previsão de conclusão: 2027)
 
-## Backend
+---
 
-REST APIs · ASP.NET Core · Clean Architecture 
-## Data & Infrastructure
+## 📊 Analytics e Conquistas
+<div align="center">
+[  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cauekkz&theme=react&hide_border=true" alt="Activity Graph" />
+  <br><br>
+  
+[  <img src="https://streak-stats.demolab.com/?user=cauekkz&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
 
-PostgreSQL · SQL Server · Redis · Docker · Entity Framework Core
+---
 
-## Currently Exploring
+## 💻 Tech Stack
 
-Microservices · Distributed Systems · gRPC · RabbitMQ · MassTransit ·
-System Design
+### ⚙️ Backend
+[![Backend Stack](https://skillicons.dev/icons?i=cs,dotnet,java,spring)](https://skillicons.dev)
 
-## Computer Science
+### 🖥️ Frontend
+[![Frontend Stack](https://skillicons.dev/icons?i=angular,ts)](https://skillicons.dev)
 
-Data Structures · Algorithms · Object-Oriented Programming ·
-Problem Solving · Complexity Analysis
+### 🗄️ Infraestrutura & Dados
+[![Infra Stack](https://skillicons.dev/icons?i=postgres,redis,docker,rabbitmq,linux)](https://skillicons.dev)
 
-## Also Working With
-
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,mysql,redis,rabbitmq)](https://skillicons.dev)
+### 🛠️ Ferramentas
+[![Tools Stack](https://skillicons.dev/icons?i=git,github,vscode,idea)](https://skillicons.dev)
