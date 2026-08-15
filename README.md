@@ -9,10 +9,10 @@
 
 ## 📊 Analytics e Conquistas
 <div align="center">
-[  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cauekkz&theme=react&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cauekkz&theme=react&hide_border=true" alt="Activity Graph" />
   <br><br>
   
-[  <img src="https://streak-stats.demolab.com/?user=cauekkz&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=cauekkz&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
