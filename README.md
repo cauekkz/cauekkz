@@ -1,16 +1,24 @@
-## Hi there 👋
+## Main Stack
 
-<!--
-**cauekkz/cauekkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,git)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+## Backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+REST APIs · ASP.NET Core · Clean Architecture 
+## Data & Infrastructure
+
+PostgreSQL · SQL Server · Redis · Docker · Entity Framework Core
+
+## Currently Exploring
+
+Microservices · Distributed Systems · gRPC · RabbitMQ · MassTransit ·
+System Design
+
+## Computer Science
+
+Data Structures · Algorithms · Object-Oriented Programming ·
+Problem Solving · Complexity Analysis
+
+## Also Working With
+
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,mysql,redis,rabbitmq)](https://skillicons.dev)
