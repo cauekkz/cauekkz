@@ -37,8 +37,12 @@ Estudo Análise e Desenvolvimento de Sistemas e passo a maior parte do tempo do 
 
 ### Atividade
 
-<img src="https://ghchart.rshah.org/cauekkz" alt="Contribuições de cauekkz no último ano" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cauekkz/cauekkz/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cauekkz/cauekkz/output/github-snake.svg">
+  <img alt="Contribuições de cauekkz no último ano" src="https://raw.githubusercontent.com/cauekkz/cauekkz/output/github-snake.svg" width="100%">
+</picture>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=cauekkz&theme=transparent&hide_border=true&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7&date_format=j%20M%5B%20Y%5D&locale=pt_BR" alt="Sequência de contribuições" height="150">
+<img src="https://streak-stats.demolab.com/?user=cauekkz&theme=transparent&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&sideNums=39d353&date_format=j%20M%5B%20Y%5D&locale=pt_BR" alt="Sequência de contribuições" height="150">
