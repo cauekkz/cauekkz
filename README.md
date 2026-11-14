@@ -1,23 +1,14 @@
 <h1 align="left">Cauê Lima Vaccari</h1>
 
-<p align="left">
-  <code>18 anos</code>&nbsp;
-  <code>ADS · FATEC Ipiranga · 2027</code>&nbsp;
-  <code>backend · C# · Java</code>
-</p>
-
 Estudo Análise e Desenvolvimento de Sistemas e passo a maior parte do tempo do lado do servidor: APIs em **.NET** e **Spring**, filas, cache e banco. De vez em quando desço até o Assembly só pra entender como as coisas funcionam por baixo.
 
 <br>
 
-### Projetos
+### Projeto em destaque
 
 | | |
 |---|---|
 | **[VanRoute](https://github.com/cauekkz/projeto-integrador)** <br><sub>Java · Spring · Docker</sub> | Gestão de transporte escolar: van em tempo real, rotas, financeiro e chat entre pais, motoristas e empresas. |
-| **[ETEConnect](https://github.com/cauekkz/TCC-ETEC)** <br><sub>PHP · JWT · MariaDB</sub> | Rede social acadêmica das Etecs (TCC): feed por unidade, eventos, vitrine de TCCs e mensagens diretas. |
-| **[Chess](https://github.com/cauekkz/Chess-C-Sharp)** <br><sub>C#</sub> | Xadrez no console com notação algébrica, validação de jogadas e destaque dos movimentos possíveis. |
-| **[Coffe Line](https://github.com/cauekkz/cofe-line)** <br><sub>HTML · CSS · JS</sub> | Cafeteria fictícia com mangás na mesa, latte art e cardápio em pixel art. |
 
 <br>
 
