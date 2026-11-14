@@ -37,7 +37,7 @@ Estudo Análise e Desenvolvimento de Sistemas e passo a maior parte do tempo do 
 
 ### Atividade
 
-<img src="https://ghchart.rshah.org/2f81f7/cauekkz" alt="Contribuições de cauekkz no último ano" width="100%">
+<img src="https://ghchart.rshah.org/cauekkz" alt="Contribuições de cauekkz no último ano" width="100%">
 
 <br><br>
 
