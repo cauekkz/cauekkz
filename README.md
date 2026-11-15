@@ -1,14 +1,12 @@
-<h1 align="left">Cauê Lima Vaccari</h1>
-
-Estudo Análise e Desenvolvimento de Sistemas e passo a maior parte do tempo do lado do servidor: APIs em **.NET** e **Spring**, filas, cache e banco. De vez em quando desço até o Assembly só pra entender como as coisas funcionam por baixo.
+I'm studying Systems Analysis and Development and spend most of my time on the server side: APIs in **.NET** and **Spring**, queues, caching and databases. Every now and then I go all the way down to Assembly just to understand how things work under the hood.
 
 <br>
 
-### Projeto em destaque
+### Featured project
 
 | | |
 |---|---|
-| **[VanRoute](https://github.com/cauekkz/projeto-integrador)** <br><sub>Java · Spring · Docker</sub> | Gestão de transporte escolar: van em tempo real, rotas, financeiro e chat entre pais, motoristas e empresas. |
+| **[VanRoute](https://github.com/cauekkz/projeto-integrador)** <br><sub>Java · Spring · Docker</sub> | School van transportation management: real-time van tracking, routes, billing and chat between parents, drivers and companies. |
 
 <br>
 
@@ -24,25 +22,25 @@ Estudo Análise e Desenvolvimento de Sistemas e passo a maior parte do tempo do 
     <td><img src="https://skillicons.dev/icons?i=angular,ts&perline=8" height="36" alt="Angular, TypeScript"></td>
   </tr>
   <tr>
-    <td><sub>DADOS & INFRA</sub></td>
+    <td><sub>DATA & INFRA</sub></td>
     <td><img src="https://skillicons.dev/icons?i=postgres,redis,rabbitmq,docker,linux&perline=8" height="36" alt="PostgreSQL, Redis, RabbitMQ, Docker, Linux"></td>
   </tr>
   <tr>
-    <td><sub>FERRAMENTAS</sub></td>
+    <td><sub>TOOLS</sub></td>
     <td><img src="https://skillicons.dev/icons?i=git,github,vscode,idea&perline=8" height="36" alt="Git, GitHub, VS Code, IntelliJ"></td>
   </tr>
 </table>
 
 <br>
 
-### Atividade
+### Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cauekkz/cauekkz/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cauekkz/cauekkz/output/github-snake.svg">
-  <img alt="Contribuições de cauekkz no último ano" src="https://raw.githubusercontent.com/cauekkz/cauekkz/output/github-snake.svg" width="100%">
+  <img alt="cauekkz contributions in the last year" src="https://raw.githubusercontent.com/cauekkz/cauekkz/output/github-snake.svg" width="100%">
 </picture>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=cauekkz&theme=transparent&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&sideNums=39d353&date_format=j%20M%5B%20Y%5D&locale=pt_BR" alt="Sequência de contribuições" height="150">
+<img src="https://streak-stats.demolab.com/?user=cauekkz&theme=transparent&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&sideNums=39d353&date_format=j%20M%5B%20Y%5D" alt="Contribution streak" height="150">
